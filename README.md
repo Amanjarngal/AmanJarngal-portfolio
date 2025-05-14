@@ -53,6 +53,18 @@ A fully responsive, animated, and interactive developer portfolio website that s
 
 -Responsive layout across all devices
 
+<h2>Setup & Installation</h2> 
 
+# Clone the repository
+git clone https://github.com/your-username/portfolio.git
+
+# Navigate into the folder
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
 
 This was a fulfilling project and I’m excited to keep learning and building. Would love your feedback and suggestions! 🙌
