@@ -1,0 +1,16 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
+.grid-background {
+  background-color: #0f0c29; /* dark base */
+  background-image:
+    linear-gradient(0deg, rgba(255,255,255,0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px);
+  background-size: 20px 20px;
+  animation: moveGrid 20s linear infinite;
+  position: relative;
+  overflow: hidden;
+}
+
