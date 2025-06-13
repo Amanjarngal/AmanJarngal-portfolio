@@ -1,6 +1,8 @@
 import React from "react";
 import { FaGithub, FaExternalLinkAlt, FaLinkedin } from "react-icons/fa";
 import TaskManager from "../../assets/Taskmanagement.png"
+import  Bankiizard from "../../assets/Bankiizard.png"
+import TourGuid from "../../assets/TourGuid.png"
 const projects = [
   {
     name: "Portfolio Website",
@@ -19,14 +21,14 @@ const projects = [
   },
   {
     name: "TourGuide Website",
-    image: "https://media.licdn.com/dms/image/v2/D562DAQFLYuonN9Tw3A/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735725643345?e=1747771200&v=beta&t=vwZicdLnhY51eX5liAngH8MUdx13DxIFjZDSnOTJh3o",
+    image: TourGuid,
     github: " https://github.com/Amanjarngal/TourGuide",
     linkedin: "https://www.linkedin.com/posts/aman-jarngal_explorewithusonline-bookyouradventure-guidedtourexperience-activity-7241144522896728065-bfCM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
-    live: "https://tourguide-1-ym1n.onrender.com/",
+    live: "https://tour-guide-three.vercel.app/",
   },
   {
     name: "bankiizard",
-    image: "https://media.licdn.com/dms/image/v2/D562DAQFPga4CSbuErA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1711035753561?e=1747771200&v=beta&t=y0J_Jrl8UIYcbfdft5vAjlIJiig3yhaqOxfI6h-Ns94",
+    image: Bankiizard,
     github: "https://github.com/Amanjarngal/Bankiizard",
     linkedin: "https://www.linkedin.com/posts/aman-jarngal_frontenddevelopment-currencyconverter-financialnews-activity-7208784757076226049-qv8e?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
     live: "https://bankiizard.onrender.com/",

@@ -1,5 +1,5 @@
 import React from "react";
-
+import Certificate from "../../assets/Certificate.jpg"
 const certificates = [
   {
     title: "Xiaomi Ode2Code 3.0",
@@ -18,8 +18,8 @@ const certificates = [
   },
   {
     title: "The Web Development Bootcamp 2024",
-    img: "https://media.licdn.com/dms/image/v2/D562DAQGxFKorQRPmHA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1727186157401?e=1747771200&v=beta&t=SW_dd-21PwmHgxVL4mLpkWQBBIr27JVu8lqt7TAlKa8",
-    link: "", // Add your certificate link
+    img: Certificate ,
+    link: "https://www.udemy.com/certificate/UC-3746392d-9844-40de-94d7-beba82365dd0/", // Add your certificate link
   },
   {
     title: "Flipkart GRID 5.0 - Software Development Track Hackathon ",
