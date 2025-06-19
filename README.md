@@ -55,13 +55,16 @@ A fully responsive, animated, and interactive developer portfolio website that s
 
 <h2>Setup & Installation</h2> 
 
-# Clone the repository
+<h3>Clone the repository</h3>
+
 git clone https://github.com/your-username/portfolio.git
 
-# Navigate into the folder
+<h3>Navigate into the folder</h3>
+
 cd portfolio
 
-# Install dependencies
+<h3> Install dependencies</h3>
+
 npm install
 
 # Start the development server
