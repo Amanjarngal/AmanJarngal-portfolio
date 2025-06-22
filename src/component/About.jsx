@@ -62,7 +62,7 @@ const stats = [
   {
     id: 1,
     icon: <FaCode className="text-4xl text-purple-500 mb-2" />,
-    number: 5, // Numeric
+    number: 7, // Numeric
     title: "Total Projects",
     description: "Innovative web solutions crafted",
    onClick: () => {

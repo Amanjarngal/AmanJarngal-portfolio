@@ -3,10 +3,28 @@ import { FaGithub, FaExternalLinkAlt, FaLinkedin } from "react-icons/fa";
 import TaskManager from "../../assets/Taskmanagement.png"
 import  Bankiizard from "../../assets/Bankiizard.png"
 import TourGuid from "../../assets/TourGuid.png"
+import Fest from "../../assets/Fest.png"
+import portfolioUpdate from "../../assets/PortfolioUpdate.png"
+import new1 from "../../assets/new.png"
+import Text from "../../assets/texteditor.png"
 const projects = [
+   {
+    name: "FestPass Scanner",
+    image: Fest,
+    github: "https://github.com/Amanjarngal/FestPass-Scanner",
+    linkedin: "https://www.linkedin.com/posts/aman-jarngal_mern-webdevelopment-reactjs-activity-7341564600061972480-3q_G?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
+    live: "https://festpass-scanner.netlify.app/",
+  },
+  {
+    name: "AmanJarngal-portfolio",
+    image: portfolioUpdate,
+    github: "https://github.com/Amanjarngal/AmanJarngal-portfolio",
+    linkedin: "https://www.linkedin.com/posts/aman-jarngal_webdevelopment-reactjs-tailwindcss-activity-7328512483202097152-Qk98?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
+    live: "https://melodic-pika-161407.netlify.app/",
+  },
   {
     name: "Portfolio Website",
-    image: "https://media.licdn.com/dms/image/v2/D5622AQHSrRMQ9YMbnw/feedshare-shrink_800/B56ZRraxkQHoAg-/0/1736968983333?e=1750291200&v=beta&t=UQKCar-M-BtPn4kOIncG7DiFgifG5dbJ2Po7E8AXvv4",
+    image: new1,
     github: "https://github.com/Amanjarngal/Portfolio",
     linkedin:
       "https://www.linkedin.com/posts/aman-jarngal_this-portfolio-website-is-a-personal-project-activity-7285375960638537728-WuOH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
@@ -14,7 +32,7 @@ const projects = [
   },
   {
     name: "Text Editor",
-    image: "https://media.licdn.com/dms/image/v2/D5622AQF0DwRM-V315A/feedshare-shrink_800/B56ZQhazqOHIAg-/0/1735727463583?e=1750291200&v=beta&t=ybSlv_SZuVNTYWrptQoAAneZlc9xChdUPOlxcUOHwbI",
+    image: Text,
     github: " https://github.com/Amanjarngal/TextEditor",
     linkedin: "https://www.linkedin.com/posts/aman-jarngal_this-project-is-a-fully-customizable-text-activity-7280168648114151424-4zhF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
     live: "https://lustrous-salamander-7014ce.netlify.app/",
@@ -27,7 +45,7 @@ const projects = [
     live: "https://tour-guide-three.vercel.app/",
   },
   {
-    name: "bankiizard",
+    name: "Bankiizard",
     image: Bankiizard,
     github: "https://github.com/Amanjarngal/Bankiizard",
     linkedin: "https://www.linkedin.com/posts/aman-jarngal_frontenddevelopment-currencyconverter-financialnews-activity-7208784757076226049-qv8e?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",

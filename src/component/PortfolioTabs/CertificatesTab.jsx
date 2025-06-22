@@ -1,19 +1,25 @@
 import React from "react";
 import Certificate from "../../assets/Certificate.jpg"
+import Flipkart from "../../assets/Flipkart.jpg"
+import gg1 from "../../assets/gg.jpg"
+import gsoc from "../../assets/gsoc.jpg"
+import iet from "../../assets/iet.jpg"
+import tata from "../../assets/tata.jpg"
+import xiaomi from "../../assets/xiaomi.jpg"
 const certificates = [
   {
     title: "Xiaomi Ode2Code 3.0",
-    img: "https://media.licdn.com/dms/image/v2/D5622AQEyZSiS5csdZA/feedshare-shrink_800/feedshare-shrink_800/0/1733156621374?e=1750291200&v=beta&t=P5gsrxBwlUVyDrnvqNXytb-KmbdqXpiu5bVd9KtQ12M",
+    img: xiaomi,
     link: "https://www.linkedin.com/posts/aman-jarngal_xiaomiode2code-techinnovation-codingchallenge-activity-7269385757423734784-yO_A?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0", // Add your certificate link
   },
   {
     title: "GirlScript Summer of Code 2024 - Extended Edition",
-    img: "https://media.licdn.com/dms/image/v2/D5622AQHKoaFTllHAIA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727443714937?e=1750291200&v=beta&t=3GzL6YC0FizHDKRO7G5oFqALQwqH_pBW0U6a_2l0iKg",
+    img: gsoc,
     link: "https://www.linkedin.com/posts/aman-jarngal_gssoc24x-codethefuture2024-girlscriptextended2024-activity-7245424095599730688-woGe?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
   },
   {
     title: "Code Clash of WebTech Trivia",
-    img: "https://media.licdn.com/dms/image/v2/D5622AQFlNDpC7MGf7w/feedshare-shrink_800/feedshare-shrink_800/0/1719186752407?e=1750291200&v=beta&t=vlx_Po3myU2truQBmJmDc646CJOvfqNdqP3tJgNhZhk",
+    img: iet,
     link: "https://www.linkedin.com/posts/aman-jarngal_ietabrjec-activity-7205542161847574528-w2Zx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
   },
   {
@@ -23,17 +29,17 @@ const certificates = [
   },
   {
     title: "Flipkart GRID 5.0 - Software Development Track Hackathon ",
-    img: "https://media.licdn.com/dms/image/v2/D4E22AQEyhuAXw0NW8g/feedshare-shrink_800/feedshare-shrink_800/0/1691678012638?e=1750291200&v=beta&t=2XiTlqZxK4sBp8JTiG-RVGOnhcitYgtYc5pi2PXCp9c",
+    img: Flipkart,
     link: "https://www.linkedin.com/posts/aman-jarngal_flipkart-flipkartgrid-activity-7095411867719753728-JDay?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
   },
   {
     title: " Tata iQ Data Visualisation Virtual Programme",
-    img: "https://media.licdn.com/dms/image/v2/D4D22AQGuswNGMGMAjQ/feedshare-shrink_800/feedshare-shrink_800/0/1690137364715?e=1750291200&v=beta&t=x7c9VEhOGoK-5bP3fz2N7RgVsTjGDMrsDuMEXUlz_9M",
+    img: tata,
     link: "https://www.linkedin.com/posts/aman-jarngal_completing-the-tata-iq-data-visualisation-activity-7088949912620417024-FeGL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
   },
   {
     title: "geeksforgeeks Tech-QUIZ. ",
-    img: "https://media.licdn.com/dms/image/v2/D4D22AQH-7ny0KLxaww/feedshare-shrink_800/feedshare-shrink_800/0/1689501645098?e=1750291200&v=beta&t=cQh5HS5IWFetKtbb-PiET0dffYESe_sZ8tRrPyDHHT4",
+    img: gg1,
     link: "https://www.linkedin.com/posts/aman-jarngal_participate-in-geeksforgeeks-tech-quiz-activity-7086283527809302528-ifmf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
   },
 ];
