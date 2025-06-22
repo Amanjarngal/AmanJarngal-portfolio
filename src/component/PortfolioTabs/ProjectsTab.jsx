@@ -6,7 +6,7 @@ import TourGuid from "../../assets/TourGuid.png"
 import Fest from "../../assets/Fest.png"
 import p from "../../assets/p.png"
 import new1 from "../../assets/new.png"
-import Text from "../../assets/texteditor.png"
+import Text from "../../assets/Text.png"
 const projects = [
    {
     name: "FestPass Scanner",
