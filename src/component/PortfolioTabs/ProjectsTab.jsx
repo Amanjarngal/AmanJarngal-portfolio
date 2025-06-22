@@ -4,7 +4,7 @@ import TaskManager from "../../assets/Taskmanagement.png"
 import  Bankiizard from "../../assets/Bankiizard.png"
 import TourGuid from "../../assets/TourGuid.png"
 import Fest from "../../assets/Fest.png"
-import portfolioUpdate from "../../assets/PortfolioUpdate.png"
+import p from "../../assets/p.png"
 import new1 from "../../assets/new.png"
 import Text from "../../assets/texteditor.png"
 const projects = [
@@ -17,7 +17,7 @@ const projects = [
   },
   {
     name: "AmanJarngal-portfolio",
-    image: portfolioUpdate,
+    image: p,
     github: "https://github.com/Amanjarngal/AmanJarngal-portfolio",
     linkedin: "https://www.linkedin.com/posts/aman-jarngal_webdevelopment-reactjs-tailwindcss-activity-7328512483202097152-Qk98?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
     live: "https://melodic-pika-161407.netlify.app/",
