@@ -1,6 +1,6 @@
 import React from "react";
 import Certificate from "../../assets/Certificate.jpg"
-import Flipkart from "../../assets/Flipkart.jpg"
+import flipkart from "../../assets/flipkart.jpg"
 import gg1 from "../../assets/gg.jpg"
 import gsoc from "../../assets/gsoc.jpg"
 import iet from "../../assets/iet.jpg"
@@ -29,7 +29,7 @@ const certificates = [
   },
   {
     title: "Flipkart GRID 5.0 - Software Development Track Hackathon ",
-    img: Flipkart,
+    img: flipkart,
     link: "https://www.linkedin.com/posts/aman-jarngal_flipkart-flipkartgrid-activity-7095411867719753728-JDay?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrx89sBjczQpjeDkmTZIpc3wYCvewsE0J0",
   },
   {
