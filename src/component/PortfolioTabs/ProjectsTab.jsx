@@ -7,7 +7,15 @@ import Fest from "../../assets/Fest.png"
 import p from "../../assets/p.png"
 import new1 from "../../assets/new.png"
 import Text from "../../assets/Text.png"
+import solar from "../../assets/solar.png"
 const projects = [
+   {
+    name: "3D Solar System",
+    image: solar,
+    github: "https://github.com/Amanjarngal/3D-Solar-System",
+    linkedin: "#",
+    live: "https://3d-solar-system-simulatio.netlify.app/",
+  },
    {
     name: "FestPass Scanner",
     image: Fest,
